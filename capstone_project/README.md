@@ -48,7 +48,7 @@ On Unix or MacOS, using the bash shell: source /path/to/venv/bin/activate\
 On Windows using the Command Prompt: path\to\venv\Scripts\activate.bat
 
 ```bash
-source /home/user/flower_image_classification/env/mle_venv/bin/activate
+source /home/user/flower_image_classification/env/cnn_mle/bin/activate
 ```
 In case you are using Jupyter notebooks or you have any error following the previous steps, just open the requirements.txt and in anaconda cmd enter manually *conda install <package>* for every package. For instance,
 
