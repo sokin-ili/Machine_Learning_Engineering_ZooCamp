@@ -22,6 +22,10 @@ Serves as an educational resource for botany students, researchers, and nature e
 You can download the data from my *Google Drive*: https://drive.google.com/drive/folders/18e6XK3vwEmHCzW8uKrHmsRufEqRxht35?usp=sharing or you can find a smaller dataset in *Kaggle*: https://www.kaggle.com/datasets/alxmamaev/flowers-recognition [**has fewer categories and images**]
  
 
+# CNNs
+
+You can download the trained models from my *Google Drive*: https://drive.google.com/drive/folders/18e6XK3vwEmHCzW8uKrHmsRufEqRxht35?usp=sharing . Each file is ~250 MB, thus they were too much for Github :P
+
 # Instructions 
 
 First of all, you should create & activate the project's environment (in folder named env, the environment's name is: **cnn_mle**). There you will also find the requirements.txt file with every module you will need.
@@ -74,12 +78,12 @@ drive.mount('/content/drive')
 this will import data from your google drive into Google Colab! **No deployment was applied!**
 
 
-### Baseline model: model_cnn
+# Baseline model: model_cnn
 
 *Train Accuracy*: 88.53%
 *Validation Accuracy*: 84.42%
 
-### Final model: model_xception
+# Final model: model_xception
 
 *Train Accuracy*: 99.53%
 *Validation Accuracy*: 94.20%
