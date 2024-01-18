@@ -3,17 +3,17 @@
 
 As a part of my last capstone project for the Machine Learning Engineering Zoomcamp, I decided to focus on the application of Convolutional Neural Networks (CNNs). I followed the steps of section 8.Machine Learning Zoomcamp(https://www.youtube.com/watch?v=it1Lu7NmMpw&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR&index=67). Furthermore, the dataset contains 1600 images for every type(bellflower, daisy, dandelion, lotus, rose, sunflower, tulip). Flower image classification is important:
 
-1. Biodiversity Monitoring
+1. Biodiversity Monitoring\
 Enables automated identification and tracking of different flower species in the wild, while contributing to biodiversity monitoring efforts by providing valuable data on the distribution and abundance of plant species.
 
-2. Ecosystem Health Assessment
+2. Ecosystem Health Assessment\
 Offers a non-intrusive method for assessing the health of ecosystems based on the diversity and condition of flowering plants.
 Provides insights into the overall well-being of ecosystems and potential ecological imbalances.
 
-3. Educational Tools
+3. Educational Tools\
 Serves as an educational resource for botany students, researchers, and nature enthusiasts. Moreover, it facilitates the understanding of plant diversity and characteristics.
 
-4. Automated Floriculture Industry
+4. Automated Floriculture Industry\
  **Benefits the floriculture industry by automating the sorting and categorization of flowers based on species and characteristics. In addition, it enhances efficiency and reduces manual labor in the production and sale of flowers.**
 
 
